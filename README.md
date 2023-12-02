@@ -9,13 +9,13 @@ try to complete as much as possible.
 
 ## PROGRESS
 
-[x] Day One
-[x] Day Two
-[ ] Day Three
-[ ] Day Four
- .
- .
- .
+- [x] Day One
+- [x] Day Two
+- [ ] Day Three
+- [ ] Day Four
+-  .
+-  .
+-  .
 
 ### About this...
 
